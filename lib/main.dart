@@ -26,7 +26,7 @@ class _MyAppState extends State<MyApp> {
         //backgroundColor: Colors.black
         primarySwatch: Colors.deepPurple,
       ),
-      debugShowCheckedModeBanner: false,
+      // debugShowCheckedModeBanner: false,
       initialRoute: splashRoute,
       routes: routes,
       home: welcomeScreen(),
